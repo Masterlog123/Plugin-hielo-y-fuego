@@ -1,0 +1,14 @@
+mundos:
+  hielo: mundo_hielo
+  fuego: mundo_fuego
+equipamiento:
+  hielo:
+    head: DIAMOND_HELMET
+    chest: DIAMOND_CHESTPLATE
+    legs: DIAMOND_LEGGINGS
+    feet: DIAMOND_BOOTS
+  fuego:
+    head: NETHERITE_HELMET
+    chest: NETHERITE_CHESTPLATE
+    legs: NETHERITE_LEGGINGS
+    feet: NETHERITE_BOOTS
